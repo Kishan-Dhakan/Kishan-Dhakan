@@ -43,4 +43,3 @@ I am Kishan Dhakan, I've been working full time remote since over an year now. I
 
 
 -----
-Credits: [Kishan Dhakan](https://github.com/Kishan-Dhakan)
