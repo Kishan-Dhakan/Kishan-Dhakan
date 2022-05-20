@@ -13,9 +13,11 @@ I am Kishan Dhakan, I've been working full time remote since over an year now. I
 
 ![Go](https://img.shields.io/badge/-Golang-00599C?style=flat-square&logo=go)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
+![Rust](https://img.shields.io/badge/-Rust-00599C?style=flat-square&logo=rust)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+
 
 ### Libraries & Framework :
 
